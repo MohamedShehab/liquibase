@@ -13,7 +13,7 @@ public class Person {
     @Column(name = "id", nullable = false)
     private Long id;
 
-    @Column(name = "firstname")
+    @Column(name = "firstname1111")
     private String firstName;
 
     @Column(name = "lastname", nullable = false)
